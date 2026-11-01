@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMIT Batch 22 — JavaScript Assignment 01
 
 ## About
@@ -27,3 +28,7 @@ This repository contains my first JavaScript assignment for the Full Stack Web D
 ## Learning Goal
 To understand JavaScript fundamentals and improve problem-solving skills through practical exercises.
 
+=======
+# SMIT-Batch22-JS-Assignments
+JavaScript fundamentals assignments for SMIT Batch 22 — Full Stack Web Development.
+>>>>>>> 55b17a967cc4c5f52ac7ced77cd08bf1f48396d2
